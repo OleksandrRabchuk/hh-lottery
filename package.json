@@ -1,0 +1,11 @@
+{
+  "name": "hh-lottery",
+  "version": "1.0.0",
+  "description": "hardhat lottery",
+  "main": "index.js",
+  "author": "Rabchuk Oleksandr",
+  "license": "MIT",
+  "dependencies": {
+    "hardhat": "^2.9.9"
+  }
+}
